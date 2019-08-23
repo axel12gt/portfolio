@@ -17,7 +17,7 @@ function AboutMe() {
         <li class="nav-item">
           <a
             className="nav-link"
-            href="/https://www.linkedin.com/in/dameon-brown-23a045186/"
+            href="https://www.linkedin.com/in/dameon-brown-23a045186/"
             target="blank_"
           >
             LinkedIn
