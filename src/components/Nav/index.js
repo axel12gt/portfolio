@@ -13,7 +13,7 @@ function Nav() {
           }
           to="/"
         >
-          About Me
+        Dameon Brown
         </Link>
       </li>
       <li class="nav-item">
@@ -26,18 +26,6 @@ function Nav() {
           to="/projects"
         >
           Projects
-        </Link>
-      </li>
-      <li class="nav-item">
-        <Link
-          className={
-            window.location.pathname === "/contact"
-              ? "nav-link active"
-              : "nav-link"
-          }
-          to="/contact"
-        >
-            Contact Links
         </Link>
       </li>
     </ul>
