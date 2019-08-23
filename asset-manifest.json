@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8aa276d5.chunk.css",
+    "main.js": "/portfolio/static/js/main.ca529141.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ca529141.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.e9a507a1.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.e9a507a1.js.map",
+    "static/js/2.8ffd91fb.chunk.js": "/portfolio/static/js/2.8ffd91fb.chunk.js",
+    "static/js/2.8ffd91fb.chunk.js.map": "/portfolio/static/js/2.8ffd91fb.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.02e04cb6735d0b0ba82a59e9f50ea09f.js": "/portfolio/precache-manifest.02e04cb6735d0b0ba82a59e9f50ea09f.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.8aa276d5.chunk.css.map": "/portfolio/static/css/main.8aa276d5.chunk.css.map",
+    "static/media/Crystal-Collector.png": "/portfolio/static/media/Crystal-Collector.64b15ce2.png",
+    "static/media/b.png": "/portfolio/static/media/b.9ed4d12c.png",
+    "static/media/board.png": "/portfolio/static/media/board.33589ddd.png",
+    "static/media/giphy.gif": "/portfolio/static/media/giphy.86ced363.gif"
+  }
+}
