@@ -11,7 +11,7 @@ function Nav() {
               ? "nav-link active"
               : "nav-link"
           }
-          to="/"
+          to="/about"
         >
         Dameon Brown
         </Link>
